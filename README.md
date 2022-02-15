@@ -1,7 +1,7 @@
 # Bikcraft
 
 <p style="font-size: 16px;">Bikcraft é um site fictício de comprar de bicicletas customizadas. <br>
-Eeste projeto foi desenvolvido durante meu aprendizado no curso de front end na Origamid.</p>
+Este projeto foi desenvolvido durante meu aprendizado no curso de front end na Origamid.</p>
 
 - Foi desenvolvido com boas práticas de front end
 - É totalmente responsivo
