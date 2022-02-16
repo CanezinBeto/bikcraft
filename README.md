@@ -7,7 +7,7 @@ Este projeto foi desenvolvido durante meu aprendizado no curso de front end na O
 - É totalmente responsivo
 - Foi utilizado diversas técnicas com CSS3
 
-## Técnologias Utilizadas
+## Tecnologias Utilizadas
 
 - JavaScript
 - CSS3 - FlexBox - CSS Grid
